@@ -64,6 +64,8 @@ The key difference is in how each method changes the brightness, which affects t
 ![Task 2 Result](Task2.png)
 
 
+# *Task3 Result**
+![Task 3 Result](Task3.png)
 
 
 # *Task4 Histogram**
