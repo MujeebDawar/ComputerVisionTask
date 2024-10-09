@@ -25,8 +25,6 @@ When zooming the shrunken image back up, the original pixel density and details 
 # **Conclusion:**
 When  shrink an image, Image lose important details. Enlarging it again can’t bring back those lost details because the process relies on estimations, which tend to blur sharp features and make the image look less defined. This results in visible differences like blurring, loss of fine details, jagged edges, and pixelation in the zoomed image.
 
-![Task 2 Result](Task1.png)
-
 
 
 # **Explanation Task 2**
