@@ -1,6 +1,8 @@
 # ComputerVisionTask
 Semester 2 Computer vision Quiz 1 Task
-
+Mujeeb Ur Rehman
+Roll# 240385
+MS- CGD II
 # **Task1 Explanation**
 
 The differences between the original image, the shrunk image, and the zoomed image can be explained by considering the processes involved in shrinking and zooming and how they affect image quality:
@@ -58,7 +60,9 @@ The main differences between log transformation and power-law (gamma) transforma
 - **Power-law transformation** gives more control over the image’s appearance by adjusting \( \gamma \), allowing you to enhance either dark or bright areas.
 
 The key difference is in how each method changes the brightness, which affects their ability to reveal details and adjust contrast in different parts of the image.
-
+# *Task2 Result**
+"Note: In GitHub, the image is not displaying correctly. I have uploaded a screenshot of the result named Task2.png."
+![Task 2 Result](Task2.png)
 
 
 
